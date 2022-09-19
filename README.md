@@ -14,4 +14,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Prep_Terminal';">Pre-work : Practice in the terminal</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Prep_Growth';">Pre-work : The Growth Mindset</button>
+
 -----
