@@ -14,14 +14,14 @@ How can we ensure that we’ll avoid an infinite recursive call stack?
 
 ## 8 Common Data Structures
 
-1) Arrays
-2) Linked Lists
-3) Stacks-LIFO
-4) Queues-FIFO
-5) Hash Table
-6) Trees
-7) Heaps
-8) Graphs
+1) Arrays  
+2) Linked Lists  
+3) Stacks-LIFO  
+4) Queues-FIFO  
+5) Hash Table  
+6) Trees  
+7) Heaps  
+8) Graphs  
 
 ## Things I want to know more about
 
