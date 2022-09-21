@@ -23,4 +23,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_02';">Read 02 - Express, NPM, TDD, CI/CD</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_03';">Read 03 - Express REST API </button>
+
 -----
