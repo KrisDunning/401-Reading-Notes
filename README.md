@@ -17,12 +17,14 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Prep_Growth';">Pre-work : The Growth Mindset</button>
 
-## Reading Assignments 
+## Reading Assignments
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_01';">Read 01 - Node Ecosystems</button>
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_02';">Read 02 - Express, NPM, TDD, CI/CD</button>
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_03';">Read 03 - Express REST API </button>
+
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_04';">Read 04 - Data Modeling </button>
 
 -----
