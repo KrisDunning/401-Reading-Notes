@@ -27,4 +27,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_04';">Read 04 - Data Modeling </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_06';">Read 06 - Authentication </button>
+
 -----
