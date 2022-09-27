@@ -29,4 +29,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_06';">Read 06 - Authentication </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_07';">Read 07 - Bearer Authorization </button>
+
 -----
