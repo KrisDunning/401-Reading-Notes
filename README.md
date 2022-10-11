@@ -41,4 +41,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_16';">Read 16 - AWS: Cloud Servers </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_17';">Read 17 - AWS: S3 and Lambda </button>
+
 -----
