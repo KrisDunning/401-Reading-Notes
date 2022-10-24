@@ -3,7 +3,7 @@
 
 -----
 
-# Read 18 - AWS: AWS: API, Dynamo and Lambda
+# Read 19 - AWS: AWS: API, Dynamo and Lambda
 
 ## Discussion Questions
 

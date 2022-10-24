@@ -47,4 +47,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_19';">Read 19 - AWS: Events </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_26';">Read 26 - Component Based UI </button>
+
 -----
