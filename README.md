@@ -49,4 +49,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_26';">Read 26 - Component Based UI </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_27';">Read 27 - useState Hook </button>
+
 -----
