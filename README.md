@@ -51,4 +51,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_27';">Read 27 - useState Hook </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_28';">Read 28 - Lifecycle/useEffect Hook </button>
+
 -----
