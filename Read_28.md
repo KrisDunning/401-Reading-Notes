@@ -6,7 +6,7 @@
 
 ## Discussion Questions
 
-### ffects hook
+### useEffect hook
 
 What purpose does useEffect serve in a function component compared to its counterpart(s) in class components?
 > useEffect Hook in function components is as componentDidMount, componentDidUpdate, and componentWillUnmount in class components.
