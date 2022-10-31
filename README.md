@@ -53,6 +53,8 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_28';">Read 28 - Lifecycle/useEffect Hook </button>
 
-<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_29';">Read 28 - Advanced State with Reducers </button>
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_29';">Read 29 - Advanced State with Reducers </button>
+
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_31';">Read 31 - Context API </button>
 
 -----
