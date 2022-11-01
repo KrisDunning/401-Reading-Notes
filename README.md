@@ -57,4 +57,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_31';">Read 31 - Context API </button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_32';">Read 32 - Context API - Behaviors</button>
+
 -----
