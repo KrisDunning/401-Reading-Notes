@@ -63,4 +63,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_34';">Read 34 - API Integration</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_36';">Read 36 - Application State with Redux</button>
+
 -----
