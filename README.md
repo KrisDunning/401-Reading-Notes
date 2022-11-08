@@ -65,4 +65,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_36';">Read 36 - Application State with Redux</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_37';">Read 37 - Redux - Combined Reducers</button>
+
 -----
