@@ -67,4 +67,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_37';">Read 37 - Redux - Combined Reducers</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_38';"> Read 38 - Redux - Asynchronous Actions</button>
+
 -----
