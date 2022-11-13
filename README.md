@@ -73,4 +73,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_41';"> Read 41 - React Native</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_42';"> Read 42 - Ethics in Tech</button>
+
 -----
