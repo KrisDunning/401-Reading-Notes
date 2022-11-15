@@ -75,4 +75,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_42';"> Read 42 - Ethics in Tech</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/401-Reading-Notes/Read_43';"> Read 43 - OSS Contributions and Frameworks </button>
+
 -----
